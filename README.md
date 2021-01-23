@@ -8,7 +8,6 @@ install better discord, enter settings, come to themes, then put them in themes 
 <p align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/796811499229806612/796811854353268746/unknown.png" width="%500" height="500px"
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------
   
 # bychanv4.theme.css  
 <p align="center">
