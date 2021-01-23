@@ -1,0 +1,43 @@
+/**
+ * @name ByCh4n
+ * @author Alvatador
+ * @version 4
+ * @description ByCh4n 
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.hizliresim.com/w0mhDo.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: contain;
+  --background-image-position: r;
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 5px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.02;
+  --left-brightness: 0;
+  --middle-brightness: 0;
+  --right-brightness: 0;
+  --popout-modal-brightness: 1;
+  --gradient-primary: 20,180,0;
+  --gradient-secondary: 39,40,41;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --link-colour: #00b0f4;
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: 'Whitney';
+  --window-padding: undefinedpx;
+  --window-roundness: undefinedpx;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+}
